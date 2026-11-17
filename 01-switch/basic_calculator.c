@@ -56,22 +56,11 @@ int main(void)
         sonuc = sayi1/sayi2;
         printf("Sonuc = %.2f",sonuc);
         break;
+
+
     default: printf("Invalid operation. Please 1-4 enter a number!");
         break;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     return 0;
 }
